@@ -16,7 +16,7 @@ const projects = [
     Githublink: "https://github.com/Shubham7-1/Tic-Tac-Toe",
   },
 
-  {
+/*  {
     title: "Flappy Bird",
     cardImage: "assets/images/project-page/flappybird.png",
     description: "Flappy bird game built using React.js",
@@ -25,19 +25,20 @@ const projects = [
     Githublink: "https://github.com/Shubham7-1",
   },
 
-
+*/
 
   
   {
-    title: "Movie Recommendation System",
-    cardImage: "assets/images/project-page/movie-recommendation.jpeg",
-    description: "Built using Tensorflow.",
+    title: "Weather Forecast",
+    cardImage: "assets/images/project-page/Apple-Weather-app.jpg",
+    description: "Built using HTML,CSS,Javascript.",
     tagimg:
-      "https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png",
-    Previewlink: "",
-    Githublink: "https://github.com/Shubham7-1",
+      "",
+    Previewlink: "https://shubham7-1.github.io/Weather-App/",
+    Githublink: "https://github.com/Shubham7-1/Weather-App",
   },
-  {
+  
+ /* {
     title: "Music Recommendation Engine",
     cardImage: "assets/images/project-page/music.jpg",
     description: "Built using Python.",
@@ -46,6 +47,7 @@ const projects = [
     Previewlink: "",
     Githublink: "https://github.com/Shubham7-1",
   },
+  */
 ];
 
 // function for rendering project cards data
